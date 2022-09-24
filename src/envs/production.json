@@ -1,0 +1,8 @@
+{
+  "base_senna": "https://senna.co.id/",
+  "BASE_URL_uri": "https://sennakreasi-prod.s3-ap-southeast-1.amazonaws.com/",
+  "base_url_uri": "https://senna.co.id/api/v1",
+  "base_url_v2_uri": "https://senna.co.id/api/v2",
+  "base_url_node_v2_uri": "https://api.senna.co.id/api",
+  "base_url_php_v3_uri": "https://api-v3.senna.co.id"
+}

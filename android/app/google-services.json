@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350399117886",
+    "firebase_url": "https://auth-38edd-default-rtdb.firebaseio.com",
+    "project_id": "auth-38edd",
+    "storage_bucket": "auth-38edd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350399117886:android:c1a51c51a84c30c01def6f",
+        "android_client_info": {
+          "package_name": "com.learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350399117886-kan8okup5jd5gc2nhj4gk0q48ogcqi0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkbrwP6f1t3sai5kw7cfIoRS1m0mvJIG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350399117886-kan8okup5jd5gc2nhj4gk0q48ogcqi0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
